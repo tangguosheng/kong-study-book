@@ -1,2 +1,1 @@
-# luajit-doc
-luajit学习笔记
+# kong 网关学习笔记
